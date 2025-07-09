@@ -10,7 +10,8 @@ The process:
     ```
 3. create the keys, it will ask for a password or secret
    ```bash
-   xxxx
+   chmod +x secure_xlm_wallet.sh
+   ./secure_xlm_wallet.sh
    ```
 5. paste the QR and associated info in notepad (font console 9) and print
 
