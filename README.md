@@ -21,3 +21,5 @@ For using the keys, paste here the encrypted private key:
 ```bash
 python decrypt_xlm_key.py
 ```
+
+Thank you, Gemini.
